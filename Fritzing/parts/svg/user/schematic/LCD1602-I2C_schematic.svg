@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.70361in" height="0.70972in" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 80793 81494"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g id="schematic">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect fill="white" stroke="black" stroke-width="1148.26" stroke-linecap="round" x="574" y="12759" width="67460" height="55978"/>
+  <line id="connector0pin" fill="none" stroke="#787878" stroke-width="1116.16" stroke-linecap="round" x1="34304" y1="68895" x2="34304" y2= "80378"  gorn="0.0.7"/>
+  <g transform="matrix(-8.01198E-014 -1 1 -8.01198E-014 -1899.6 101172)">
+   <text x="35181" y="38392"  fill="#606062" font-weight="normal" font-size="5581.7" font-family="Droid Sans">GND</text>
+  </g>
+  <rect id="connector0terminal" fill="none" x="33746" y="80378" width="1116" height="1116" text-anchor="start" gorn="0.0.9"/>
+  <line id="connector1pin" fill="none" stroke="#787878" stroke-width="1116.16" stroke-linecap="round" x1="34304" y1="1117" x2="34304" y2= "12599"  gorn="0.0.10"/>
+  <g transform="matrix(-8.01198E-014 -1 1 -8.01198E-014 -1899.14 50511.1)">
+   <text x="25503" y="38392"  fill="#606062" font-weight="normal" font-size="5581.7" font-family="Droid Sans">VCC</text>
+  </g>
+  <rect id="connector1terminal" fill="none" x="33746" width="1116" height="1116" text-anchor="end" gorn="0.0.12"/>
+  <line id="connector2pin" fill="none" stroke="#787878" stroke-width="1116.16" stroke-linecap="round" x1="68193" y1="35006" x2="79676" y2= "35006"  gorn="0.0.1"/>
+  <g transform="matrix(1 0 0 1 29521.1 -996.814)">
+   <text x="25127" y="38392"  fill="#606062" font-weight="normal" font-size="5581.7" font-family="Droid Sans">SDA</text>
+  </g>
+  <rect id="connector2terminal" fill="none" x="79676" y="34448" width="1116" height="1116" text-anchor="end" gorn="0.0.3"/>
+  <line id="connector3pin" fill="none" stroke="#787878" stroke-width="1116.16" stroke-linecap="round" x1="68193" y1="46489" x2="79676" y2= "46489"  gorn="0.0.4"/>
+  <g transform="matrix(1 0 0 1 29861 10565.8)">
+   <text x="26177" y="38392"  fill="#606062" font-weight="normal" font-size="5581.7" font-family="Droid Sans">SCL</text>
+  </g>
+  <rect id="connector3terminal" fill="none" x="79676" y="45931" width="1116" height="1116" text-anchor="end" gorn="0.0.6"/>
+  <g transform="matrix(1 0 0 1 -1006.31 -765.354)">
+   <text x="18219" y="38392" id="label" fill="black" font-weight="500" font-size="6777.88" font-family="OCRA">LCD1602</text>
+  </g>
+  <g transform="matrix(1 0 0 1 -913.633 9199.17)">
+   <text x="27911" y="38392" id="label_0" fill="black" font-weight="500" font-size="6777.88" font-family="OCRA">I2C</text>
+  </g>
+ </g>
+</svg>

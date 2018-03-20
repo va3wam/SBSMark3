@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.15961in" height="1.42732in" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 1434940 648221"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g id="pcb">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="copper1" gorn="0.2">
+   <g id="copper0" gorn="0.2.0">
+    <rect fill="none" stroke="#F7BD13" stroke-width="7720.57" x="32409" y="80508" width="25887" height="25887"/>
+    <circle id="connector0pad" fill="none" stroke="#F7BD13" stroke-width="7720.57" cx="45353" cy="93451" r="12943" connectorname="GND" gorn="0.2.0.2"/>
+    <circle id="connector1pad" fill="none" stroke="#F7BD13" stroke-width="7720.57" cx="45353" cy="138867" r="12943" connectorname="VCC" gorn="0.2.0.0"/>
+    <circle id="connector2pad" fill="none" stroke="#F7BD13" stroke-width="7720.57" cx="45353" cy="184282" r="12943" connectorname="SDA" gorn="0.2.0.4"/>
+    <circle id="connector3pad" fill="none" stroke="#F7BD13" stroke-width="7720.57" cx="45353" cy="229697" r="12943" connectorname="SCL" gorn="0.2.0.1"/>
+   </g>
+  </g>
+  <g id="silkscreen">
+   <rect fill="none" stroke="#FEFEFE" stroke-width="4541.51" x="2271" y="2271" width="1430398" height="643679"/>
+   <g>
+    <line fill="none" stroke="white" stroke-width="3633.21" stroke-linecap="round" x1="68060" y1="218343" x2="68060" y2= "241051" />
+    <line fill="none" stroke="white" stroke-width="3633.21" stroke-linecap="round" x1="68060" y1="241051" x2="56706" y2= "252404" />
+    <line fill="none" stroke="white" stroke-width="3633.21" stroke-linecap="round" x1="33999" y1="252404" x2="22645" y2= "241051" />
+    <line fill="none" stroke="white" stroke-width="3633.21" stroke-linecap="round" x1="56706" y1="161574" x2="68060" y2= "172928" />
+    <line fill="none" stroke="white" stroke-width="3633.21" stroke-linecap="round" x1="68060" y1="172928" x2="68060" y2= "195636" />
+    <line fill="none" stroke="white" stroke-width="3633.21" stroke-linecap="round" x1="68060" y1="195636" x2="56706" y2= "206989" />
+    <line fill="none" stroke="white" stroke-width="3633.21" stroke-linecap="round" x1="33999" y1="206989" x2="22645" y2= "195636" />
+    <line fill="none" stroke="white" stroke-width="3633.21" stroke-linecap="round" x1="22645" y1="195636" x2="22645" y2= "172928" />
+    <line fill="none" stroke="white" stroke-width="3633.21" stroke-linecap="round" x1="22645" y1="172928" x2="33999" y2= "161574" />
+    <line fill="none" stroke="white" stroke-width="3633.21" stroke-linecap="round" x1="68060" y1="218343" x2="56706" y2= "206989" />
+    <line fill="none" stroke="white" stroke-width="3633.21" stroke-linecap="round" x1="33999" y1="206989" x2="22645" y2= "218343" />
+    <line fill="none" stroke="white" stroke-width="3633.21" stroke-linecap="round" x1="22645" y1="241051" x2="22645" y2= "218343" />
+    <line fill="none" stroke="white" stroke-width="3633.21" stroke-linecap="round" x1="68060" y1="82098" x2="68060" y2= "104805" />
+    <line fill="none" stroke="white" stroke-width="3633.21" stroke-linecap="round" x1="68060" y1="104805" x2="56706" y2= "116159" />
+    <line fill="none" stroke="white" stroke-width="3633.21" stroke-linecap="round" x1="33999" y1="116159" x2="22645" y2= "104805" />
+    <line fill="none" stroke="white" stroke-width="3633.21" stroke-linecap="round" x1="56706" y1="116159" x2="68060" y2= "127513" />
+    <line fill="none" stroke="white" stroke-width="3633.21" stroke-linecap="round" x1="68060" y1="127513" x2="68060" y2= "150220" />
+    <line fill="none" stroke="white" stroke-width="3633.21" stroke-linecap="round" x1="68060" y1="150220" x2="56706" y2= "161574" />
+    <line fill="none" stroke="white" stroke-width="3633.21" stroke-linecap="round" x1="33999" y1="161574" x2="22645" y2= "150220" />
+    <line fill="none" stroke="white" stroke-width="3633.21" stroke-linecap="round" x1="22645" y1="150220" x2="22645" y2= "127513" />
+    <line fill="none" stroke="white" stroke-width="3633.21" stroke-linecap="round" x1="22645" y1="127513" x2="33999" y2= "116159" />
+    <line fill="none" stroke="white" stroke-width="3633.21" stroke-linecap="round" x1="56706" y1="70744" x2="33999" y2= "70744" />
+    <line fill="none" stroke="white" stroke-width="3633.21" stroke-linecap="round" x1="68060" y1="82098" x2="56706" y2= "70744" />
+    <line fill="none" stroke="white" stroke-width="3633.21" stroke-linecap="round" x1="33999" y1="70744" x2="22645" y2= "82098" />
+    <line fill="none" stroke="white" stroke-width="3633.21" stroke-linecap="round" x1="22645" y1="104805" x2="22645" y2= "82098" />
+    <line fill="none" stroke="white" stroke-width="3633.21" stroke-linecap="round" x1="56706" y1="252404" x2="33999" y2= "252404" />
+   </g>
+   <g transform="matrix(1 0 0 1 559892 173361)">
+    <text x="52560" y="160664" id="label" fill="#FEFEFE" font-weight="500" font-size="26807.4" font-family="OCRA">LCD1602-I2C</text>
+   </g>
+  </g>
+ </g>
+</svg>

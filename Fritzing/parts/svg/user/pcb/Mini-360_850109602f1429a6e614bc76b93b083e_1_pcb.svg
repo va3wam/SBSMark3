@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   gorn="0"
+   viewBox="0 0 699.91809 457.53036"
+   width="0.69991809in"
+   height="0.45753038in"
+   id="svg2"
+   version="1.2">
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs28" />
+  <desc
+     id="desc4">
+    <referenceFile>nsjumper_5_100mil_pcb.svg</referenceFile>
+  </desc>
+  <desc
+     id="desc6">Fritzing footprint SVG</desc>
+  <g
+     id="g7"
+     transform="translate(103.66142,137.94956)">
+    <g
+       gorn="0.4.0"
+       id="silkscreen">
+      <line
+         y1="-134.98894"
+         gorn="0.4.0.0"
+         x2="-98.866188"
+         style="stroke:#000000;stroke-width:9.59045506"
+         id="line9"
+         y2="315.69757"
+         x1="-98.866188" />
+      <line
+         y1="315.31747"
+         gorn="0.4.0.1"
+         x2="591.54364"
+         style="stroke:#000000;stroke-width:8.5266552"
+         id="line11"
+         y2="315.31747"
+         x1="-99.142937" />
+      <line
+         y1="315.68942"
+         gorn="0.4.0.2"
+         x2="591.46143"
+         style="stroke:#000000;stroke-width:9.59045601"
+         id="line13"
+         y2="-134.99707"
+         x1="591.46143" />
+      <line
+         y1="-133.68376"
+         gorn="0.4.0.3"
+         x2="-99.675766"
+         style="stroke:#000000;stroke-width:8.5316"
+         id="line15"
+         y2="-133.68376"
+         x1="591.81219" />
+      <!-- 120 -->
+      <g
+         gorn="0.4.0.4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.61111069;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text3360"
+         xml:space="preserve"><text
+           y="288.25793"
+           x="10.233602"
+           gorn="0.4.0.4.0"
+           id="tspan3362">In+</text>
+</g>      <g
+         gorn="0.4.0.5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.61111069;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text3364"
+         xml:space="preserve"><text
+           y="-75.170776"
+           x="16.468224"
+           gorn="0.4.0.5.0"
+           id="tspan3366">In-</text>
+</g>      <g
+         gorn="0.4.0.6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.61111069;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text3368"
+         xml:space="preserve"><text
+           y="286.45792"
+           x="344.10037"
+           gorn="0.4.0.6.0"
+           id="tspan3370">OUT+</text>
+</g>      <g
+         gorn="0.4.0.7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.61111069;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text3372"
+         xml:space="preserve" />      <g
+         gorn="0.4.0.8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.61111069;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text3376"
+         xml:space="preserve"><text
+           y="-68.88533"
+           x="358.48218"
+           gorn="0.4.0.8.0"
+           id="tspan3378">OUT-</text>
+</g>    </g>
+  </g>
+  <g
+     id="g24"
+     transform="translate(150.5682,118.50041)">
+    <g
+       gorn="0.5.0"
+       id="copper1">
+      <g
+         gorn="0.5.0.0"
+         id="copper0">
+        <circle
+           cx="-100.4661"
+           gorn="0.5.0.0.0"
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           cy="-69.307693"
+           r="29"
+           id="connector0pin" />
+        <circle
+           cx="-100.4661"
+           gorn="0.5.0.0.1"
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           cy="290.69916"
+           r="29"
+           id="connector1pin" />
+        <circle
+           cx="499.52048"
+           gorn="0.5.0.0.4"
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           cy="290.69229"
+           r="29"
+           id="connector2pin" />
+        <circle
+           cx="499.52048"
+           gorn="0.5.0.0.2"
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           cy="-69.307693"
+           r="29"
+           id="connector3pin" />
+        <rect
+           y="259.64517"
+           x="468.91788"
+           height="61.256359"
+           width="61.080879"
+           id="rect3363"
+           style="fill:none;fill-opacity:1;stroke:#ffbf00;stroke-width:16.54936981" />
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#ffbf00;stroke-width:16.54936981"
+           id="rect3368"
+           width="61.080879"
+           height="61.256359"
+           x="468.91788"
+           y="-99.421272" />
+        <rect
+           y="-100.22276"
+           x="-131.39633"
+           height="61.256359"
+           width="61.080879"
+           id="rect3370"
+           style="fill:none;fill-opacity:1;stroke:#ffbf00;stroke-width:16.54936981" />
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#ffbf00;stroke-width:16.54936981"
+           id="rect3372"
+           width="61.080879"
+           height="61.256359"
+           x="-131.12917"
+           y="259.91232" />
+      </g>
+    </g>
+  </g>
+</svg>

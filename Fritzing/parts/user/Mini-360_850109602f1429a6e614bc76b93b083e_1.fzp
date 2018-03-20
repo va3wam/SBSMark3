@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module referenceFile="generic_rounded_female_pin_header_5_100mil.fzp" fritzingVersion="0.2.2.b.03.04.2550" moduleId="Mini-360_850109602f1429a6e614bc76b93b083e_1">
+ <version>4</version>
+ <author>Peter Van Epp (vanepp in forums)</author>
+ <title>Mini-360 DC-DC Buck converter</title>
+ <label>U</label>
+ <date>Sun Jun 11 2017</date>
+ <tags>
+  <tag>contrib</tag>
+  <tag>dc dc step down converter</tag>
+ </tags>
+ <properties>
+  <property name="variant">variant 2</property>
+  <property name="family">Power supply</property>
+  <property name="layer"></property>
+  <property name="Pins">4</property>
+  <property name="hole size"></property>
+  <property name="Pin Spacing">0.1in (2.54mm)</property>
+  <property name="package">THT</property>
+  <property name="Position"></property>
+  <property name="part number"></property>
+  <property name="Form">♀ (female rounded)</property>
+ </properties>
+ <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+p, li { white-space: pre-wrap; }
+&lt;/style>&lt;/head>&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Mini-360 DC-DC Buck converter. Tiny buck step down voltage converter, input voltage 4.75 to 23V output 1 to 17V adjustable. Available from ebay and the like.&lt;/p>&lt;/body>&lt;/html></description>
+ <views>
+  <iconView>
+   <layers image="icon/Mini-360_850109602f1429a6e614bc76b93b083e_1_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/Mini-360_850109602f1429a6e614bc76b93b083e_1_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView fliphorizontal="true">
+   <layers image="schematic/Mini-360_850109602f1429a6e614bc76b93b083e_1_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/Mini-360_850109602f1429a6e614bc76b93b083e_1_pcb.svg">
+    <layer layerId="copper0"/>
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector type="male" id="connector0" name="IN-">
+   <description>IN-</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector0pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" terminalId="connector0terminal" svgId="connector0pin"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector0pin"/>
+     <p layer="copper1" svgId="connector0pin"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector1" name="IN+">
+   <description>IN+</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector1pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" terminalId="connector1terminal" svgId="connector1pin"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector1pin"/>
+     <p layer="copper1" svgId="connector1pin"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector2" name="OUT+">
+   <description>OUT+</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector2pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" terminalId="connector2terminal" svgId="connector2pin"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector2pin"/>
+     <p layer="copper1" svgId="connector2pin"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector3" name="OUT-">
+   <description>OUT-</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector3pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" terminalId="connector3terminal" svgId="connector3pin"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector3pin"/>
+     <p layer="copper1" svgId="connector3pin"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+</module>

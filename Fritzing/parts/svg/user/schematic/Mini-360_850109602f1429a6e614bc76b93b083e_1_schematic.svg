@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.2"
+   id="svg2"
+   height="0.40000001in"
+   width="0.60747421in"
+   viewBox="0 0 607.47418 400"
+   gorn="0"
+   x="0in"
+   y="0in">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs54" />
+  <desc
+     id="desc4">
+    <referenceFile>generic_ic_dip_6_schem.svg</referenceFile>
+  </desc>
+  <g
+     transform="translate(2.4742489,0)"
+     id="g6">
+    <g
+       id="schematic"
+       gorn="0.3.0">
+      <rect
+         id="rect7"
+         height="387.5"
+         width="393.5"
+         style="fill:none;stroke:#000000;stroke-width:12.5;stroke-linecap:round;stroke-linejoin:round"
+         gorn="0.3.0.0"
+         x="100.24998"
+         y="6.25" />
+      <text
+         id="label"
+         font-size="48.6111"
+         style="font-size:48.61109924;font-family:'Droid Sans';text-anchor:middle;fill:#000000;stroke:none"
+         gorn="0.3.0.1"
+         x="296.25586"
+         y="192.36546">DC - DC</text>
+      <line
+         x1="2.4560642"
+         y2="100"
+         id="line10"
+         style="fill:none;stroke:#787878;stroke-width:9.72220039;stroke-linecap:round;stroke-linejoin:round"
+         x2="102.40546"
+         gorn="0.3.0.2"
+         y1="100" />
+      <rect
+         id="connector1pin"
+         height="9.7222004"
+         connectorName="1"
+         width="99.999992"
+         style="fill:none;stroke-width:0"
+         gorn="0.3.0.3"
+         x="0"
+         y="95.138901" />
+      <rect
+         id="connector1terminal"
+         height="9.7222004"
+         width="1"
+         style="fill:none;stroke-width:1"
+         gorn="0.3.0.4"
+         x="0"
+         y="95.138901" />
+      <text
+         id="label0"
+         font-size="48.6111"
+         style="font-size:48.61109924;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none"
+         gorn="0.3.0.5"
+         x="125.01777"
+         y="118.57446">IN+</text>
+      <line
+         x1="2.4560642"
+         y2="299.86157"
+         id="line24"
+         style="fill:none;stroke:#787878;stroke-width:9.72220039;stroke-linecap:round;stroke-linejoin:round"
+         x2="102.40546"
+         gorn="0.3.0.6"
+         y1="299.86157" />
+      <rect
+         id="connector0pin"
+         height="9.7222004"
+         connectorName="3"
+         width="99.999992"
+         style="fill:none;stroke-width:0"
+         gorn="0.3.0.7"
+         x="0"
+         y="295.13901" />
+      <rect
+         id="connector0terminal"
+         height="9.7222004"
+         width="0"
+         style="fill:none;stroke-width:0"
+         gorn="0.3.0.8"
+         x="0"
+         y="295.13901" />
+      <text
+         id="label2"
+         font-size="48.6111"
+         style="font-size:48.61109924;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none"
+         gorn="0.3.0.9"
+         x="119.11613"
+         y="318.57443">IN-</text>
+      <line
+         x1="492.58423"
+         y2="100"
+         id="line31"
+         style="fill:none;stroke:#787878;stroke-width:9.72220039;stroke-linecap:round;stroke-linejoin:round"
+         x2="597.41571"
+         gorn="0.3.0.10"
+         y1="100" />
+      <rect
+         id="connector2pin"
+         height="9.7222004"
+         connectorname="6"
+         width="99.999992"
+         style="fill:none;stroke-width:0"
+         gorn="0.3.0.11"
+         x="499.99997"
+         y="95.138901" />
+      <rect
+         id="connector2terminal"
+         height="9.7222004"
+         width="10"
+         style="fill:none;stroke-width:0"
+         gorn="0.3.0.12"
+         x="594.99994"
+         y="95.138901" />
+      <text
+         id="label5"
+         font-size="48.6111"
+         style="font-size:48.61109924;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none"
+         gorn="0.3.0.13"
+         x="470.06421"
+         y="119.55807">OUT+</text>
+      <line
+         x1="492.9303"
+         y2="300"
+         id="line45"
+         style="fill:none;stroke:#787878;stroke-width:9.72220039;stroke-linecap:round;stroke-linejoin:round"
+         x2="597.76172"
+         gorn="0.3.0.18"
+         y1="300" />
+      <rect
+         id="connector3pin"
+         height="9.7222004"
+         connectorname="4"
+         width="99.999992"
+         style="fill:none;stroke-width:0"
+         gorn="0.3.0.19"
+         x="499.99997"
+         y="295.13901" />
+      <rect
+         id="connector3terminal"
+         height="9.7222004"
+         width="10"
+         style="fill:none;stroke-width:0"
+         gorn="0.3.0.20"
+         x="594.99994"
+         y="295.13901" />
+      <text
+         id="label3"
+         font-size="48.6111"
+         style="font-size:48.61109924;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none"
+         gorn="0.3.0.21"
+         x="463.17896"
+         y="317.59085">OUT-</text>
+      <text
+         id="text3388"
+         font-size="48.6111"
+         style="font-size:48.61109924;font-family:'Droid Sans';text-anchor:middle;fill:#000000;stroke:none"
+         gorn="0.3.0.22"
+         x="297.78351"
+         y="246.45847">Converter</text>
+    </g>
+  </g>
+</svg>

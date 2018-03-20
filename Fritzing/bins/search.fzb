@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Search.png" search="usb male">
+    <title>Search</title>
+    <instances>
+        <instance moduleIdRef="USBHostShield-v13" modelIndex="85439511" path="/Applications/Fritzing.app/Contents/MacOS/fritzing-parts/core/USBHostShield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="usb_3.0_female_fix" modelIndex="85439512" path="/Applications/Fritzing.app/Contents/MacOS/fritzing-parts/core/usb_3.0_female_fix.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-USB--A-SMD" modelIndex="85439513" path="/Applications/Fritzing.app/Contents/MacOS/fritzing-parts/core/sparkfun-connectors-usb--a-smd.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduinoXbeere" modelIndex="85439514" path="/Applications/Fritzing.app/Contents/MacOS/fritzing-parts/core/arduinoXbeere.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-USB-_" modelIndex="85439515" path="/Applications/Fritzing.app/Contents/MacOS/fritzing-parts/core/sparkfun-connectors-usb-_.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Gizwits_WiFi_Witty_ESP_12F" modelIndex="85439516" path="/Applications/Fritzing.app/Contents/MacOS/fritzing-parts/core/Gizwits_WiFi_Witty_ESP_12F.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>

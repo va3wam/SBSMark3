@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Mine.png">
+    <title>My Parts</title>
+    <instances>
+        <instance moduleIdRef="adafruit_0e72f50894ad1025d5f9aedbc506c3ea_19" modelIndex="85436706" path="/Users/andrewmitchell/Documents/Fritzing/parts/user/adafruit_0e72f50894ad1025d5f9aedbc506c3ea_19.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="GY-521 (MPU-6050)_c04de46074449c633e976b577d302f05_5" modelIndex="85437610" path="/Users/andrewmitchell/Documents/Fritzing/parts/user/GY-521 (MPU-6050)_c04de46074449c633e976b577d302f05_5.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LCD1602-I2C" modelIndex="85437647" path="/Users/andrewmitchell/Documents/Fritzing/parts/user/LCD1602-I2C_.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Mini-360_850109602f1429a6e614bc76b93b083e_1" modelIndex="85437652" path="/Users/andrewmitchell/Documents/Fritzing/parts/user/Mini-360_850109602f1429a6e614bc76b93b083e_1.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
