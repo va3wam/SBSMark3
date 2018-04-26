@@ -1,5 +1,6 @@
 # SBSMark3
-Third iteration of the SegbotSTEP family of robot designs. 
+Third iteration of the SegbotSTEP family of robot designs. Full details about this project 
+can be read on our [wiki](https://github.com/va3wam/SBSMark3/wiki).
 
 ## Getting Started
 
@@ -61,7 +62,8 @@ This Arduino code was developed using the following set up.
 
 ## Contributing
 
-This project is being developed by a couple of buddies 
+This project is being developed by a couple of buddies. We are tracking the tasks for this
+effort in a series of small [projects](https://github.com/va3wam/SBSMark3/projects).
 
 ## Versioning
 
