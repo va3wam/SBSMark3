@@ -71,8 +71,8 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* ** Doug ** - *PID and motor control logic*
-* ** Andrew ** - *Initial work* 
+* Doug - *PID and motor control logic*
+* Andrew - *Initial work* 
 
 See also the list of [contributors](https://github.com/va3wam/SBSMark3/graphs/contributors) who participated in this project.
 
